@@ -1,0 +1,71 @@
+D:\ІПЗ 2022\1\client\library\bin\Debug\library.exe.config
+D:\ІПЗ 2022\1\client\library\bin\Debug\library.exe
+D:\ІПЗ 2022\1\client\library\bin\Debug\library.pdb
+D:\ІПЗ 2022\1\client\library\obj\Debug\library.csproj.AssemblyReference.cache
+D:\ІПЗ 2022\1\client\library\obj\Debug\library.Authorization.resources
+D:\ІПЗ 2022\1\client\library\obj\Debug\library.Properties.Resources.resources
+D:\ІПЗ 2022\1\client\library\obj\Debug\library.Registration.resources
+D:\ІПЗ 2022\1\client\library\obj\Debug\library.csproj.GenerateResource.cache
+D:\ІПЗ 2022\1\client\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+D:\ІПЗ 2022\1\client\library\obj\Debug\library.exe
+D:\ІПЗ 2022\1\client\library\obj\Debug\library.pdb
+D:\ІПЗ 2022\1\client\library\bin\Debug\websocket-sharp.dll
+D:\ІПЗ 2022\1\client\library\obj\Debug\library.Main.resources
+D:\ІПЗ 2022\1\client\library\bin\Debug\Newtonsoft.Json.dll
+D:\ІПЗ 2022\1\client\library\bin\Debug\Newtonsoft.Json.xml
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.csproj.AssemblyReference.cache
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.Authorization.resources
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.Main.resources
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.Properties.Resources.resources
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.Registration.resources
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.csproj.GenerateResource.cache
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.exe
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.pdb
+D:\ІПЗ 2022\1-1\client\library\bin\Debug\library.exe.config
+D:\ІПЗ 2022\1-1\client\library\bin\Debug\library.exe
+D:\ІПЗ 2022\1-1\client\library\bin\Debug\library.pdb
+D:\ІПЗ 2022\1-1\client\library\bin\Debug\Newtonsoft.Json.dll
+D:\ІПЗ 2022\1-1\client\library\bin\Debug\websocket-sharp.dll
+D:\ІПЗ 2022\1-1\client\library\bin\Debug\Newtonsoft.Json.xml
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.Information.resources
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.Order.resources
+D:\ІПЗ 2022\1-1\client\library\obj\Debug\library.Revision.resources
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\bin\Debug\library.exe.config
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\bin\Debug\library.exe
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\bin\Debug\library.pdb
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\bin\Debug\Newtonsoft.Json.dll
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\bin\Debug\websocket-sharp.dll
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\bin\Debug\Newtonsoft.Json.xml
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.csproj.AssemblyReference.cache
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.Authorization.resources
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.Information.resources
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.Main.resources
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.Order.resources
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.Properties.Resources.resources
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.Registration.resources
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.Revision.resources
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.csproj.GenerateResource.cache
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.csproj.CopyComplete
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.exe
+D:\Politech\5 семестр\Інженерія програмного забезпечення\1\client\library\obj\Debug\library.pdb
+C:\Users\Віка\Desktop\1\client\library\bin\Debug\library.exe.config
+C:\Users\Віка\Desktop\1\client\library\bin\Debug\library.exe
+C:\Users\Віка\Desktop\1\client\library\bin\Debug\library.pdb
+C:\Users\Віка\Desktop\1\client\library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Віка\Desktop\1\client\library\bin\Debug\websocket-sharp.dll
+C:\Users\Віка\Desktop\1\client\library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.csproj.AssemblyReference.cache
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.Authorization.resources
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.Information.resources
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.Main.resources
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.Order.resources
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.Properties.Resources.resources
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.Registration.resources
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.Revision.resources
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.csproj.GenerateResource.cache
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.csproj.CopyComplete
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.exe
+C:\Users\Віка\Desktop\1\client\library\obj\Debug\library.pdb
